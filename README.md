@@ -4,6 +4,6 @@
 Luna Peraza Sandi 2024071734 
 Gustavo Pacheco Morales 2022255539
 
-### Estado del proyecto:
+### Estado del proyecto: No está completo al 100%
 ### Enlace del video:
 Recordar que el video debe ser público para ser visto por el profesor
